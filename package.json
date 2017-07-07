@@ -1,7 +1,7 @@
 {
   "name": "docker-modem-electron-react",
   "description": "Docker remote API network layer module.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Pedro Dias <petermdias@gmail.com>",
   "maintainers": [
     "apocas <petermdias@gmail.com>"
@@ -17,7 +17,7 @@
     "docker"
   ],
   "dependencies": {
-    "jsonstream-electron-react": "1.3.2",
+    "jsonstream-electron-react": "1.3.3",
     "debug": "^2.6.0",
     "readable-stream": "~1.0.26-4",
     "split-ca": "^1.0.0"
